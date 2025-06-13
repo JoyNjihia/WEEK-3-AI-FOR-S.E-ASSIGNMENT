@@ -118,9 +118,13 @@ See the full answers in [`report.pdf`](./report.pdf).
 
 ## 👥 Contributors
 
-- Joyce Nyambura
-- Gos
-- [Group Members if applicable]
+**Group 61**  
+ 
+1.Joyce Njihia - nyamburanjihia@gmail.com
+2.Gospel Arinze - gospelarinzestuff@gmail.com
+3.Ling Mukiri - lingmukiri13@gmail.com
+4.Juma Calvin - jumacavin28@gmail.com
+5.EstherTrizar  - esthertrizar@gmail.com
 
 ---
 
